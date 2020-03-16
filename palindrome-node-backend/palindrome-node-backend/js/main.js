@@ -1,3 +1,4 @@
+//*Collaborated with Eric, Asiah, Vanessa, Zahmir, Nyah, Joshua  */
 document.querySelector('#clickMe').addEventListener('click', makeReq)
 
 function makeReq(){
